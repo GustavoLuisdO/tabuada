@@ -13,7 +13,7 @@ body{
 
 .container{
   width: 40%;
-  height: 320px;
+  height: 370px;
   background: #fff;
   margin: 20px auto;
   padding: 20px;
@@ -43,7 +43,13 @@ body{
 }
 
 #resultado{
+  width: 120px;
   margin: 15px auto;
+  padding: 20px;
+  border: 1px solid lightgray;
+  border-radius: 10px;
+  box-shadow: 1px 1px 4px #000;
+  text-align: left
 }
 .container p a{
   color: #000;
