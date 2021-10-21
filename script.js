@@ -4,6 +4,7 @@ function tabuada(){
 
   if(num === ""){
     resultado.innerHTML = 'Insira um número'
+    resultado.style.fontSize = '14px'
   }
   else{
     
